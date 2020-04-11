@@ -1,6 +1,19 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2020-04-11
+
+Added:
+
+- Squadron
+- Caveman
+- Bewitched
+- VICart (PAL)
+- Maximum Overscan (PAL)
+- Tres Monos
+
+Download [FE3-software-collection_2020-04-11.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdVmFngdYZrt_2qxqg?e=CicVUz)
+
 ## Release 2020-03-29
 
 Added:
