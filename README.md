@@ -1,6 +1,20 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2020-05-24
+
+Added:
+
+- Turtle RescueBot
+- Primevil
+- Trader Trilogy
+- Space Pirate
+- Realms of Quest beta tracks
+- Crosstalk
+- FAT-40 PAL/NTSC
+
+Download [FE3-software-collection_2020-05-24.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdVpj5ekJP41nsRy3Q?e=br4BKE)
+
 ## Release 2020-04-11
 
 Added:
