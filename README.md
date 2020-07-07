@@ -1,6 +1,18 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2020-07-07
+
+Added:
+
+- VIC Doom
+- Escape MCP
+- Rox III
+- Riddle of the Sphinx
+- A bunch of games by J. Daniels
+
+Download [FE3-software-collection_2020-07-07.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdVqRcqCjXTq54SZUg?e=E78PVj)
+
 ## Release 2020-05-24
 
 Added:
