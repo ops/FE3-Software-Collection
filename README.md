@@ -1,6 +1,17 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2020-08-20
+
+Added:
+
+- Spaceship Minus One
+- Sokoban (updated version)
+- Hearts
+- Parachute
+
+Download [FE3-software-collection_2020-08-20.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdVum4IjByv00L5dGA?e=NMiGW7)
+
 ## Release 2020-07-07
 
 Added:
