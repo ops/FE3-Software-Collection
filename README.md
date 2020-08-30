@@ -1,6 +1,18 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2020-08-30
+
+Added:
+
+- Go-Moku
+- Centipod
+- Hellgate
+- Myriad
+- Sword of Fargoal
+
+Download [FE3-software-collection_2020-08-30.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdVvqODXClM3qwkXnw?e=uUi2ax)
+
 ## Release 2020-08-20
 
 Added:
