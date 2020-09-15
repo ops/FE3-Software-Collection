@@ -1,6 +1,18 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2020-09-15
+
+Added:
+
+- Castle Attack
+- Octopus 1983
+- Octopus 2020
+- Parachute 1983
+- Parachute 2020
+
+Download [FE3-software-collection_2020-09-15.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdV0V7aBtg9kty0szA?e=QY19hn)
+
 ## Release 2020-08-30
 
 Added:
