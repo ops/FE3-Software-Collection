@@ -1,6 +1,19 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2020-11-09
+
+Added:
+
+- Veni Vidi Vic!
+- Amen Brother
+- Arcadia
+- Mower Mania
+- Helix Colony
+- Run From The Zombies
+
+Download [FE3-software-collection_2020-11-09.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdV2EJ8yNGgKw-EY8Q?e=ACfjj0)
+
 ## Release 2020-09-15
 
 Added:
