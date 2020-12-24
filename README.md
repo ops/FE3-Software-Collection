@@ -1,6 +1,26 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2020-12-24
+
+Added:
+
+- Elevator
+- Overthrown
+- Sub Med
+- The Queen's Footsteps (updated)
+- Cheesy Trials
+- Rainfall
+- Underwater Basket Weaving
+- Fall
+- Jump
+- Cheeky Monkey
+- VIC Snake
+- EASY Digi demo
+- Othello II
+
+Download [FE3-software-collection_2020-12-24.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdV3Cd6ZfcYbkRplXA?e=T6Zd3C)
+
 ## Release 2020-11-09
 
 Added:
