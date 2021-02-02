@@ -1,6 +1,24 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2021-02-02
+
+Added:
+
+- Trolley Problem
+- Escape 2020
+- Rockman
+- The Perils of Willy
+- Star Defender
+- Escape MCP 2
+- Nightcrawler
+- Phantom Attack
+- Blue Meanies from Outer Space
+- Boray Music Player 3
+- Nyan Cat
+
+Download [FE3-software-collection_2021-02-02.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdV5nXLr9tId9qPiFg?e=YPgRZ2)
+
 ## Release 2020-12-24
 
 Added:
@@ -126,4 +144,3 @@ Download [FE3-software-collection_2020-03-29.zip](https://1drv.ms/u/s!Apxr3oWi6R
 Initial release.
 
 Download [FE3-software-collection_2020-02-02.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdVh0L8dfk5KEJCvpg?e=nim0pM)
-
