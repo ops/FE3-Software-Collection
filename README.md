@@ -1,6 +1,17 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2021-02-21
+
+Added:
+
+- Andes Attack
+- Laser Zone
+- Traxx
+- NitroWheels (NTSC)
+
+Download [FE3-software-collection_2021-02-21.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdV6oSjGik3JHS-N1w?e=wvULe8)
+
 ## Release 2021-02-02
 
 Added:
