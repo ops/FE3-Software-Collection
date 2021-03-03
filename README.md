@@ -1,6 +1,21 @@
 # FE3-Software-Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2021-03-03
+
+Added:
+
+- A.C.E.
+- Computer War
+- Fourth Encounter
+- Grandmaster
+- Moons of Jupiter
+- Kickstart (updated)
+- Vicarate 3.5
+- Star Wars (slideshow)
+
+Download [FE3-software-collection_2021-03-03.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdV7TN8-AKqbsiY4Rw)
+
 ## Release 2021-02-21
 
 Added:
