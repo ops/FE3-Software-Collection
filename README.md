@@ -1,4 +1,4 @@
-# FE3-Software-Collection
+# FE3 Software Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
 ## Release 2021-04-04
