@@ -1,6 +1,18 @@
 # FE3 Software Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2021-05-05
+
+Added:
+
+- Shadowfax
+- Skyhawk
+- Pancakes
+- Mars Landing
+- 220Hz
+
+Download [FE3-software-collection_2021-05-05.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdYBOW9IV3cPQvZSTg?e=2VrWfW)
+
 ## Release 2021-04-04
 
 Added:
