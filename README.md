@@ -1,6 +1,19 @@
 # FE3 Software Collection
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2021-06-06
+
+Added:
+
+- Cosmic Fire Birds
+- Hektik
+- Jetpack
+- VIC Advenger
+- Hungry Horace
+- Silk Dust
+
+Download [FE3-software-collection_2021-06-06.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdYCLZfRSVGM5x1HEQ?e=t05yI5)
+
 ## Release 2021-05-05
 
 Added:
