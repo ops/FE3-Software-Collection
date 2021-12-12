@@ -1,5 +1,38 @@
 # FE3 Software Collection
+
 Collection of VIC-20 software with loader files for Final Expansion 3
+
+## Release 2021-12-12
+
+Added:
+
+- Sidelsa
+- Archon
+- Vicships
+- VIC Dice
+- Monster Maze
+- Grand Theft Cygnus
+- Concentrate
+- Zeptopolis
+- Dungeon of Dance
+- Chuckie Egg
+- Invaders
+- Connect-4
+- Vegetables Deluxe
+- Castle Queen
+- Treasure Seeker
+- Get The Diamonds
+- Cross Bomber
+- Cross Chase
+- Cross Horde
+- Cross Shoot
+- Cross Snake
+- Famicon Music
+- Mini Jini
+- FE3 Inspector
+- FE3 Clock
+
+Download [FE3-software-collection_2021-12-12.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdYEwRIdqOgfrGyfjQ?e=ciUQfj)
 
 ## Release 2021-06-06
 
