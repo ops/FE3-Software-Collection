@@ -2,6 +2,15 @@
 
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2021-12-24
+
+Added:
+
+- Cheese & Onion
+- Bloody X-mas
+
+Download [FE3-software-collection_2021-12-24.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdYGQNfCuuNND91vag?e=9whbUU)
+
 ## Release 2021-12-12
 
 Added:
