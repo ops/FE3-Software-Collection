@@ -2,6 +2,22 @@
 
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2022-02-02
+
+Added:
+
+- Theater of War
+- Theater of War II
+- Theater of War III
+- Realms of Quest I
+- Realms of Quest II
+- Realms of Quest III
+- System IIII Anthology
+- Face vs Heel
+- Grand Theft Cygnus (updated)
+
+Download [FE3-software-collection_2022-02-02.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdYHPISMtAX_89eG6A?e=8c62en)
+
 ## Release 2021-12-24
 
 Added:
