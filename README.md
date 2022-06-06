@@ -19,7 +19,7 @@ Added:
 - RBBS Is Jarig
 - FileBrowser
 
-Download [FE3-software-collection_2022-03-03.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdYIHPUASZIhdGJdgg?e=EsWYgV)
+Download [FE3-software-collection_2022-06-06.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdYIHPUASZIhdGJdgg?e=EsWYgV)
 
 ## Release 2022-02-02
 
