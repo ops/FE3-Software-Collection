@@ -2,6 +2,25 @@
 
 Collection of VIC-20 software with loader files for Final Expansion 3
 
+## Release 2022-06-06
+
+Added:
+
+- 20RDLE
+- Deep Scan
+- Get More Diamonds
+- Blitz
+- Flood
+- Cross Shoot (updated)
+- Rigel Attack
+- GridIron
+- Jovian Moon Lander
+- Wormhole
+- RBBS Is Jarig
+- FileBrowser
+
+Download [FE3-software-collection_2022-03-03.zip](https://1drv.ms/u/s!Apxr3oWi6RXJgdYIHPUASZIhdGJdgg?e=EsWYgV)
+
 ## Release 2022-02-02
 
 Added:
